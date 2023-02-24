@@ -1,0 +1,17 @@
+require("haitech.plugins-setup") -- should always be on the top
+require("haitech.core.options")
+require("haitech.core.keymaps")
+require("haitech.core.colorscheme")
+require("haitech.plugins.comment")
+require("haitech.plugins.nvim-web-devicons")
+require("haitech.plugins.nvim-tree")
+require("haitech.plugins.lualine")
+require("haitech.plugins.telescope")
+require("haitech.plugins.gitsigns")
+require("haitech.plugins.nvim-cmp")
+require("haitech.plugins.lsp.mason")
+require("haitech.plugins.lsp.lspsaga")
+require("haitech.plugins.lsp.lspconfig")
+require("haitech.plugins.autopairs")
+require("haitech.plugins.treesitter")
+

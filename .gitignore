@@ -1,0 +1,6 @@
+.config/iterm2
+.config/nvim/plugin
+
+
+# Temporary ignore all tmux plugins
+.tmux/plugins
