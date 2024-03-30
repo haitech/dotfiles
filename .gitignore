@@ -1,6 +1,9 @@
 .config/iterm2
 .config/nvim/plugin
-
+.config/gcloud
+.config/jgit
+.config/packer
+.config/wireshark
 
 # Temporary ignore all tmux plugins
 .tmux/plugins

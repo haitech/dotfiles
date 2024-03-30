@@ -38,6 +38,8 @@ brew install --cask iterm2
 brew install --cask slack
 brew install --cask spotify
 
+brew install jesseduffield/lazygit/lazygit
+
 brew tap homebrew/cask-fonts
 brew install --cask font-meslo-lg-nerd-font
 

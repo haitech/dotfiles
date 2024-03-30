@@ -24,7 +24,7 @@ mason_lspconfig.setup({
   ensure_installed = {
     "html",                           -- HTML
     "cssls",                          -- CSS
-    "sumneko_lua",                    -- Lua
+    "lua_ls",                         -- Lua
     "gradle_ls",                      -- Gradle 
     "kotlin_language_server",         -- Kotlin
     "jedi_language_server",           -- Python 

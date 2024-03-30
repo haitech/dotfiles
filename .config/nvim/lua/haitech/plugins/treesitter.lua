@@ -24,6 +24,7 @@ treesitter.setup({
     "markdown",
     "bash",
     "lua",
+    "terraform",
     "vim",
     "dockerfile",
     "gitignore",
